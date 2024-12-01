@@ -1,0 +1,10 @@
+/bin/*
+/etc/*
+/include/*
+/lib/*
+/Homeworks/*
+/pyvenv.cfg
+/lib64
+/lib64/*
+/share/*
+!/.gitignore
